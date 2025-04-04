@@ -636,14 +636,6 @@
 		"remappings": []
 	},
 	"sources": {
-		"@openzeppelin/contracts/access/Ownable.sol": {
-			"keccak256": "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://8ed324d3920bb545059d66ab97d43e43ee85fd3bd52e03e401f020afb0b120f6",
-				"dweb:/ipfs/QmfEckWLmZkDDcoWrkEvMWhms66xwTLff9DDhegYpvHo1a"
-			]
-		},
 		"@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
 			"keccak256": "0x880da465c203cec76b10d72dbd87c80f387df4102274f23eea1f9c9b0918792b",
 			"license": "MIT",
@@ -757,11 +749,11 @@
 			]
 		},
 		"contracts/HireKyleNFT.sol": {
-			"keccak256": "0x856724dfaf6fd39f0b25fd6ce32c5b42192cbb3d6f79533b6816ae8e908a6829",
+			"keccak256": "0x68fb29404702a4ee9e7678545962a8468919916ae46bc9c3ee8aa0a017ff719c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f241e910a92694ad43d9a9205dd51aca2b413abee7cf6d230266e9cf9f3ffe66",
-				"dweb:/ipfs/Qmc3PQ4wsXrjvvg8xk72JhhogK4hUWdpbdsycr1VdJXJ2F"
+				"bzz-raw://cb00bae895a9ceabcc3f863b11065a0e177327285b27078c057e2b3e26aa8096",
+				"dweb:/ipfs/QmQQsrHbtpDYrH4Kytgs4nba3Yd7twzXPALdYzsdRiucts"
 			]
 		}
 	},
